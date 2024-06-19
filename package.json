@@ -1,0 +1,21 @@
+{
+  "name": "ingest-links",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vuetify": "^3.5.9",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.3.67",
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.5"
+  }
+}
